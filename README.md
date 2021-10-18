@@ -2,13 +2,6 @@
 
 RPN calculator is a simple calculator app to perform arithmetic operations in a postfix manner
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
 
 ## Usage
 
